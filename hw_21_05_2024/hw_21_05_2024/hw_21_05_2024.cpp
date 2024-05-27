@@ -152,6 +152,5 @@ int main()
 {
     SmartHouse house("111111");
     house.ComeHome("111111");
-    cout << "\\\\\\\\\\\\\\\\";
     house.GoodNight();
 }
